@@ -1,0 +1,15 @@
+C:\Users\hyulya.gyuler\Documents\Visual Studio 2022\Hyu-Projects\GetAverage\bin\Debug\net6.0\GetAverage.exe
+C:\Users\hyulya.gyuler\Documents\Visual Studio 2022\Hyu-Projects\GetAverage\bin\Debug\net6.0\GetAverage.deps.json
+C:\Users\hyulya.gyuler\Documents\Visual Studio 2022\Hyu-Projects\GetAverage\bin\Debug\net6.0\GetAverage.runtimeconfig.json
+C:\Users\hyulya.gyuler\Documents\Visual Studio 2022\Hyu-Projects\GetAverage\bin\Debug\net6.0\GetAverage.dll
+C:\Users\hyulya.gyuler\Documents\Visual Studio 2022\Hyu-Projects\GetAverage\bin\Debug\net6.0\GetAverage.pdb
+C:\Users\hyulya.gyuler\Documents\Visual Studio 2022\Hyu-Projects\GetAverage\obj\Debug\net6.0\GetAverage.csproj.AssemblyReference.cache
+C:\Users\hyulya.gyuler\Documents\Visual Studio 2022\Hyu-Projects\GetAverage\obj\Debug\net6.0\GetAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hyulya.gyuler\Documents\Visual Studio 2022\Hyu-Projects\GetAverage\obj\Debug\net6.0\GetAverage.AssemblyInfoInputs.cache
+C:\Users\hyulya.gyuler\Documents\Visual Studio 2022\Hyu-Projects\GetAverage\obj\Debug\net6.0\GetAverage.AssemblyInfo.cs
+C:\Users\hyulya.gyuler\Documents\Visual Studio 2022\Hyu-Projects\GetAverage\obj\Debug\net6.0\GetAverage.csproj.CoreCompileInputs.cache
+C:\Users\hyulya.gyuler\Documents\Visual Studio 2022\Hyu-Projects\GetAverage\obj\Debug\net6.0\GetAverage.dll
+C:\Users\hyulya.gyuler\Documents\Visual Studio 2022\Hyu-Projects\GetAverage\obj\Debug\net6.0\refint\GetAverage.dll
+C:\Users\hyulya.gyuler\Documents\Visual Studio 2022\Hyu-Projects\GetAverage\obj\Debug\net6.0\GetAverage.pdb
+C:\Users\hyulya.gyuler\Documents\Visual Studio 2022\Hyu-Projects\GetAverage\obj\Debug\net6.0\GetAverage.genruntimeconfig.cache
+C:\Users\hyulya.gyuler\Documents\Visual Studio 2022\Hyu-Projects\GetAverage\obj\Debug\net6.0\ref\GetAverage.dll
